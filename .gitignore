@@ -11,5 +11,5 @@ yarn-error.log*
 .vscode/*
 
 /out
-.idea/
+/.idea
 dist
