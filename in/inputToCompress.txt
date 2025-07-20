@@ -1,0 +1,4 @@
+You can compress this using npm run compress. Here is a paragraph of lorem ipsum:
+Quia accusamus ipsum ut. Eius distinctio adipisci tempore cumque. Voluptas blanditiis magni sunt corporis veritatis ad.
+Consequatur aliquid delectus quaerat praesentium aut architecto beatae.
+Rem odio exercitationem officia doloremque consequuntur consequatur odio. Unde ipsa dolorum doloremque et.
